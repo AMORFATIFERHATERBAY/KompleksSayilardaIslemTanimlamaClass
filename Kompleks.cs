@@ -149,6 +149,11 @@ namespace Kompleks
                 return new Kompleks(0, 0);
             }
         }
+        /// Dönüşüm operatörlerine aşırı yüklenme
+        public static implicit operator double(Kompleks a)
+        {
+            return a.Gercek;
+        }
 
 
 
@@ -170,6 +175,7 @@ namespace Kompleks
             Kompleks k = a * b;
             Kompleks h = a / b;
             bool tf = a == b;
+            bool tf1 = c != b;
 
             c.Yazdir();
             d.Yazdir();
@@ -182,6 +188,7 @@ namespace Kompleks
             h.Yazdir();
             // İlişkisel oper. aşırı yüklenmesi
             Console.WriteLine(tf);
+            Console.WriteLine(tf1);
             // True ve False oper. aşırı yüklenmesi
             if (a)
             {
@@ -191,6 +198,9 @@ namespace Kompleks
             {
                 Console.WriteLine("a değeri false");
             }
+            Kompleks komleks = new Kompleks(5, -1);
+            double doub = komleks;
+            Console.WriteLine(doub);
 
         }
     }

@@ -127,6 +127,28 @@ namespace Kompleks
                 return false;
 
         }
+        public static Kompleks operator &(Kompleks a, Kompleks b)
+        {
+            if ((a.Gercek == 0 && a.Sanal == 0) | (b.Gercek == 0 && b.Sanal == 0))
+            {
+                return new Kompleks(0, 0);
+            }
+            else
+            {
+                return new Kompleks(1, 1);
+            }
+        }
+        public static Kompleks operator |(Kompleks a, Kompleks b)
+        {
+            if ((a.Gercek != 0 && a.Sanal != 0) | (b.Gercek != 0 && b.Sanal != 0))
+            {
+                return new Kompleks(1, 1);
+            }
+            else
+            {
+                return new Kompleks(0, 0);
+            }
+        }
 
 
 

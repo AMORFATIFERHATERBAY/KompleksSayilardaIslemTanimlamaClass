@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/kompleks/obj/Debug/netcoreapp3.1/kompleks.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/kompleks/obj/Debug/netcoreapp3.1/kompleks.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/kompleks/obj/Debug/netcoreapp3.1/kompleks.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/kompleks/obj/Debug/netcoreapp3.1/kompleks.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/kompleks/bin/Debug/netcoreapp3.1/kompleks.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/kompleks/bin/Debug/netcoreapp3.1/kompleks.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/kompleks/bin/Debug/netcoreapp3.1/kompleks.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/kompleks/bin/Debug/netcoreapp3.1/kompleks.dll
+/Users/amorfati/Desktop/dotnet-deneme/kompleks/bin/Debug/netcoreapp3.1/kompleks.pdb
+/Users/amorfati/Desktop/dotnet-deneme/kompleks/obj/Debug/netcoreapp3.1/kompleks.dll
+/Users/amorfati/Desktop/dotnet-deneme/kompleks/obj/Debug/netcoreapp3.1/kompleks.pdb
+/Users/amorfati/Desktop/dotnet-deneme/kompleks/obj/Debug/netcoreapp3.1/kompleks.genruntimeconfig.cache
